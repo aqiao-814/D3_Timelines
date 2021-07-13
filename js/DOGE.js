@@ -1,6 +1,6 @@
 async function drawDOGE() {
     // Data
-    const dataset = await d3.json('doge.json')
+    const dataset = await d3.json('json/doge.json')
   
     const parseDate = d3.timeParse('%Y-%m-%d')
     const xAccessor = d => parseDate(d.date)

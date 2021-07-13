@@ -1,6 +1,6 @@
 async function drawBTC() {
     // Data
-    const dataset = await d3.json('btc.json')
+    const dataset = await d3.json('json/btc.json')
   
     const parseDate = d3.timeParse('%Y-%m-%d')
     const xAccessor = d => parseDate(d.dateBTC)
