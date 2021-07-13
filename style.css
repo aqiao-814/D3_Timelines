@@ -20,3 +20,22 @@ body{
   .price {
     font-weight: bold;
   }
+
+  #chartBTC{
+    margin: 25px auto;
+    width: 1400px;
+    position: relative;
+  }
+  
+  #tooltipBTC {
+    border: 1px solid #ccc;
+    position: absolute;
+    padding: 10px;
+    background-color: #fff;
+    display: none;
+    pointer-events: none;
+  }
+  
+  .priceBTC {
+    font-weight: bold;
+  }

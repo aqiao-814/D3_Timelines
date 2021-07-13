@@ -1,4 +1,4 @@
-async function draw() {
+async function drawDOGE() {
     // Data
     const dataset = await d3.json('doge.json')
   
@@ -111,4 +111,5 @@ async function draw() {
         })
   }
   
-  draw()
+  drawDOGE()
+
