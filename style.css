@@ -1,41 +1,37 @@
 body{
-    background-color: #f7f7f7;
+  background-color: #f7f7f7;
   }
   
-  #chart{
-    margin: 25px auto;
-    width: 1400px;
-    position: relative;
-  }
-  
-  #tooltip {
-    border: 1px solid #ccc;
-    position: absolute;
-    padding: 10px;
-    background-color: #fff;
-    display: none;
-    pointer-events: none;
-  }
-  
-  .price {
-    font-weight: bold;
-  }
+#chart{
+  margin: 25px auto;
+  width: 1400px;
+  position: relative;
+}
 
-  #chartBTC{
-    margin: 25px auto;
-    width: 1400px;
-    position: relative;
-  }
+#chartBTC{
+  margin: 25px auto;
+  width: 1400px;
+  position: relative;
+}
   
-  #tooltipBTC {
-    border: 1px solid #ccc;
-    position: absolute;
-    padding: 10px;
-    background-color: #fff;
-    display: none;
-    pointer-events: none;
-  }
+#tooltip {
+  border: 1px solid #ccc;
+  position: absolute;
+  padding: 10px;
+  background-color: #fff;
+  display: none;
+  pointer-events: none;
+}
   
-  .priceBTC {
-    font-weight: bold;
-  }
+.price {
+  font-weight: bold;
+}
+
+#tooltipBTC {
+  border: 1px solid #ccc;
+  position: absolute;
+  padding: 10px;
+  background-color: #fff;
+  display: none;
+  pointer-events: none;
+}
