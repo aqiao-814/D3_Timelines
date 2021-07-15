@@ -55,7 +55,7 @@ async function drawDOGE() {
         .datum(dataset)
         .attr('d', lineGenerator)
         .attr('fill', 'none')
-        .attr('stroke', 'black')
+        .attr('stroke', '#767771')
         .attr('stroke-width', 2)
 
     //Axis
