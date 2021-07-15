@@ -1,0 +1,1875 @@
+[
+
+  {
+    "dateGME": "2020-09-01",
+    "Open": 7.3,
+    "High": 7.82,
+    "Low": 6.77,
+    "closeGME": 7.65,
+    "Adj closeGME": 7.65,
+    "Volume": 23158600
+  },
+  {
+    "dateGME": "2020-09-02",
+    "Open": 7.8,
+    "High": 8.05,
+    "Low": 7.11,
+    "closeGME": 7.71,
+    "Adj closeGME": 7.71,
+    "Volume": 13011100
+  },
+  {
+    "dateGME": "2020-09-03",
+    "Open": 7.88,
+    "High": 8.45,
+    "Low": 7.24,
+    "closeGME": 7.82,
+    "Adj closeGME": 7.82,
+    "Volume": 14344500
+  },
+  {
+    "dateGME": "2020-09-04",
+    "Open": 7.78,
+    "High": 7.92,
+    "Low": 7.17,
+    "closeGME": 7.65,
+    "Adj closeGME": 7.65,
+    "Volume": 7662000
+  },
+  {
+    "dateGME": "2020-09-08",
+    "Open": 7.55,
+    "High": 8.28,
+    "Low": 7.48,
+    "closeGME": 7.7,
+    "Adj closeGME": 7.7,
+    "Volume": 9816600
+  },
+  {
+    "dateGME": "2020-09-09",
+    "Open": 7.96,
+    "High": 7.99,
+    "Low": 7.31,
+    "closeGME": 7.35,
+    "Adj closeGME": 7.35,
+    "Volume": 9068100
+  },
+  {
+    "dateGME": "2020-09-10",
+    "Open": 6.65,
+    "High": 6.95,
+    "Low": 6.19,
+    "closeGME": 6.23,
+    "Adj closeGME": 6.23,
+    "Volume": 15558300
+  },
+  {
+    "dateGME": "2020-09-11",
+    "Open": 6.26,
+    "High": 6.33,
+    "Low": 5.87,
+    "closeGME": 6.09,
+    "Adj closeGME": 6.09,
+    "Volume": 6061200
+  },
+  {
+    "dateGME": "2020-09-14",
+    "Open": 6.8,
+    "High": 7,
+    "Low": 6.43,
+    "closeGME": 6.91,
+    "Adj closeGME": 6.91,
+    "Volume": 10119000
+  },
+  {
+    "dateGME": "2020-09-15",
+    "Open": 6.86,
+    "High": 7.26,
+    "Low": 6.69,
+    "closeGME": 7.09,
+    "Adj closeGME": 7.09,
+    "Volume": 5743500
+  },
+  {
+    "dateGME": "2020-09-16",
+    "Open": 7.03,
+    "High": 9.04,
+    "Low": 7.03,
+    "closeGME": 8.68,
+    "Adj closeGME": 8.68,
+    "Volume": 19256300
+  },
+  {
+    "dateGME": "2020-09-17",
+    "Open": 8.57,
+    "High": 9.77,
+    "Low": 8.41,
+    "closeGME": 9.2,
+    "Adj closeGME": 9.2,
+    "Volume": 17026700
+  },
+  {
+    "dateGME": "2020-09-18",
+    "Open": 9.2,
+    "High": 9.77,
+    "Low": 8.91,
+    "closeGME": 9.47,
+    "Adj closeGME": 9.47,
+    "Volume": 17407500
+  },
+  {
+    "dateGME": "2020-09-21",
+    "Open": 9.35,
+    "High": 9.6,
+    "Low": 8.38,
+    "closeGME": 8.75,
+    "Adj closeGME": 8.75,
+    "Volume": 7639800
+  },
+  {
+    "dateGME": "2020-09-22",
+    "Open": 10.45,
+    "High": 11.17,
+    "Low": 9.9,
+    "closeGME": 10.56,
+    "Adj closeGME": 10.56,
+    "Volume": 34752500
+  },
+  {
+    "dateGME": "2020-09-23",
+    "Open": 10.6,
+    "High": 10.86,
+    "Low": 9.92,
+    "closeGME": 10.04,
+    "Adj closeGME": 10.04,
+    "Volume": 10651200
+  },
+  {
+    "dateGME": "2020-09-24",
+    "Open": 9.71,
+    "High": 9.81,
+    "Low": 9.01,
+    "closeGME": 9.14,
+    "Adj closeGME": 9.14,
+    "Volume": 7938800
+  },
+  {
+    "dateGME": "2020-09-25",
+    "Open": 9.19,
+    "High": 10.18,
+    "Low": 9.1,
+    "closeGME": 10.02,
+    "Adj closeGME": 10.02,
+    "Volume": 7515200
+  },
+  {
+    "dateGME": "2020-09-28",
+    "Open": 10.16,
+    "High": 10.26,
+    "Low": 9.55,
+    "closeGME": 10.09,
+    "Adj closeGME": 10.09,
+    "Volume": 6764300
+  },
+  {
+    "dateGME": "2020-09-29",
+    "Open": 10,
+    "High": 10.65,
+    "Low": 9.93,
+    "closeGME": 10.35,
+    "Adj closeGME": 10.35,
+    "Volume": 5237600
+  },
+  {
+    "dateGME": "2020-09-30",
+    "Open": 10.25,
+    "High": 10.76,
+    "Low": 10.06,
+    "closeGME": 10.2,
+    "Adj closeGME": 10.2,
+    "Volume": 6079000
+  },
+  {
+    "dateGME": "2020-10-01",
+    "Open": 10.09,
+    "High": 10.25,
+    "Low": 9.69,
+    "closeGME": 9.77,
+    "Adj closeGME": 9.77,
+    "Volume": 4554100
+  },
+  {
+    "dateGME": "2020-10-02",
+    "Open": 9.38,
+    "High": 9.78,
+    "Low": 9.3,
+    "closeGME": 9.39,
+    "Adj closeGME": 9.39,
+    "Volume": 4340500
+  },
+  {
+    "dateGME": "2020-10-05",
+    "Open": 9.44,
+    "High": 9.59,
+    "Low": 9.25,
+    "closeGME": 9.46,
+    "Adj closeGME": 9.46,
+    "Volume": 2805000
+  },
+  {
+    "dateGME": "2020-10-06",
+    "Open": 9.56,
+    "High": 9.84,
+    "Low": 9.1,
+    "closeGME": 9.13,
+    "Adj closeGME": 9.13,
+    "Volume": 4535400
+  },
+  {
+    "dateGME": "2020-10-07",
+    "Open": 9.23,
+    "High": 9.56,
+    "Low": 9.17,
+    "closeGME": 9.36,
+    "Adj closeGME": 9.36,
+    "Volume": 3308600
+  },
+  {
+    "dateGME": "2020-10-08",
+    "Open": 9.54,
+    "High": 13.64,
+    "Low": 9.19,
+    "closeGME": 13.49,
+    "Adj closeGME": 13.49,
+    "Volume": 76453600
+  },
+  {
+    "dateGME": "2020-10-09",
+    "Open": 12.83,
+    "High": 14.8,
+    "Low": 11.9,
+    "closeGME": 12.02,
+    "Adj closeGME": 12.02,
+    "Volume": 77152800
+  },
+  {
+    "dateGME": "2020-10-12",
+    "Open": 11.66,
+    "High": 12.77,
+    "Low": 11.4,
+    "closeGME": 11.8,
+    "Adj closeGME": 11.8,
+    "Volume": 23655700
+  },
+  {
+    "dateGME": "2020-10-13",
+    "Open": 11.73,
+    "High": 12.42,
+    "Low": 11.65,
+    "closeGME": 11.88,
+    "Adj closeGME": 11.88,
+    "Volume": 10179700
+  },
+  {
+    "dateGME": "2020-10-14",
+    "Open": 12.67,
+    "High": 12.68,
+    "Low": 12.05,
+    "closeGME": 12.25,
+    "Adj closeGME": 12.25,
+    "Volume": 10761400
+  },
+  {
+    "dateGME": "2020-10-15",
+    "Open": 11.99,
+    "High": 15.1,
+    "Low": 11.99,
+    "closeGME": 13.83,
+    "Adj closeGME": 13.83,
+    "Volume": 39894800
+  },
+  {
+    "dateGME": "2020-10-16",
+    "Open": 13.77,
+    "High": 13.9,
+    "Low": 13.08,
+    "closeGME": 13.31,
+    "Adj closeGME": 13.31,
+    "Volume": 11651600
+  },
+  {
+    "dateGME": "2020-10-19",
+    "Open": 13.44,
+    "High": 14.5,
+    "Low": 13.38,
+    "closeGME": 13.91,
+    "Adj closeGME": 13.91,
+    "Volume": 13169100
+  },
+  {
+    "dateGME": "2020-10-20",
+    "Open": 14.03,
+    "High": 14.14,
+    "Low": 13.67,
+    "closeGME": 13.86,
+    "Adj closeGME": 13.86,
+    "Volume": 6604000
+  },
+  {
+    "dateGME": "2020-10-21",
+    "Open": 13.9,
+    "High": 14.42,
+    "Low": 13.8,
+    "closeGME": 14.1,
+    "Adj closeGME": 14.1,
+    "Volume": 5361900
+  },
+  {
+    "dateGME": "2020-10-22",
+    "Open": 14.2,
+    "High": 15.87,
+    "Low": 14.19,
+    "closeGME": 14.91,
+    "Adj closeGME": 14.91,
+    "Volume": 16212200
+  },
+  {
+    "dateGME": "2020-10-23",
+    "Open": 15.05,
+    "High": 15.38,
+    "Low": 14.55,
+    "closeGME": 15,
+    "Adj closeGME": 15,
+    "Volume": 6507300
+  },
+  {
+    "dateGME": "2020-10-26",
+    "Open": 14.93,
+    "High": 15.45,
+    "Low": 13.26,
+    "closeGME": 13.45,
+    "Adj closeGME": 13.45,
+    "Volume": 13376300
+  },
+  {
+    "dateGME": "2020-10-27",
+    "Open": 13.71,
+    "High": 13.71,
+    "Low": 12.36,
+    "closeGME": 12.69,
+    "Adj closeGME": 12.69,
+    "Volume": 7231000
+  },
+  {
+    "dateGME": "2020-10-28",
+    "Open": 12.27,
+    "High": 13.05,
+    "Low": 11.78,
+    "closeGME": 11.82,
+    "Adj closeGME": 11.82,
+    "Volume": 6388600
+  },
+  {
+    "dateGME": "2020-10-29",
+    "Open": 11.88,
+    "High": 12.25,
+    "Low": 11.68,
+    "closeGME": 11.73,
+    "Adj closeGME": 11.73,
+    "Volume": 4165800
+  },
+  {
+    "dateGME": "2020-10-30",
+    "Open": 11.64,
+    "High": 11.64,
+    "Low": 10.36,
+    "closeGME": 10.47,
+    "Adj closeGME": 10.47,
+    "Volume": 11546900
+  },
+  {
+    "dateGME": "2020-11-02",
+    "Open": 10.82,
+    "High": 11.09,
+    "Low": 10.5,
+    "closeGME": 10.75,
+    "Adj closeGME": 10.75,
+    "Volume": 5227000
+  },
+  {
+    "dateGME": "2020-11-03",
+    "Open": 10.75,
+    "High": 11.86,
+    "Low": 10.63,
+    "closeGME": 11.57,
+    "Adj closeGME": 11.57,
+    "Volume": 7454500
+  },
+  {
+    "dateGME": "2020-11-04",
+    "Open": 11.76,
+    "High": 11.77,
+    "Low": 10.61,
+    "closeGME": 10.91,
+    "Adj closeGME": 10.91,
+    "Volume": 5807900
+  },
+  {
+    "dateGME": "2020-11-05",
+    "Open": 11.27,
+    "High": 11.84,
+    "Low": 11.06,
+    "closeGME": 11.45,
+    "Adj closeGME": 11.45,
+    "Volume": 4705200
+  },
+  {
+    "dateGME": "2020-11-06",
+    "Open": 11.52,
+    "High": 12.17,
+    "Low": 11.32,
+    "closeGME": 11.86,
+    "Adj closeGME": 11.86,
+    "Volume": 5518200
+  },
+  {
+    "dateGME": "2020-11-09",
+    "Open": 12.76,
+    "High": 12.93,
+    "Low": 11.25,
+    "closeGME": 11.49,
+    "Adj closeGME": 11.49,
+    "Volume": 6244900
+  },
+  {
+    "dateGME": "2020-11-10",
+    "Open": 11.5,
+    "High": 11.66,
+    "Low": 10.83,
+    "closeGME": 11.1,
+    "Adj closeGME": 11.1,
+    "Volume": 3826000
+  },
+  {
+    "dateGME": "2020-11-11",
+    "Open": 11.5,
+    "High": 11.95,
+    "Low": 11.21,
+    "closeGME": 11.75,
+    "Adj closeGME": 11.75,
+    "Volume": 4882600
+  },
+  {
+    "dateGME": "2020-11-12",
+    "Open": 11.74,
+    "High": 11.87,
+    "Low": 10.97,
+    "closeGME": 11.13,
+    "Adj closeGME": 11.13,
+    "Volume": 4353300
+  },
+  {
+    "dateGME": "2020-11-13",
+    "Open": 11.36,
+    "High": 11.55,
+    "Low": 11,
+    "closeGME": 11.01,
+    "Adj closeGME": 11.01,
+    "Volume": 3535900
+  },
+  {
+    "dateGME": "2020-11-16",
+    "Open": 11.16,
+    "High": 12.66,
+    "Low": 10.72,
+    "closeGME": 12.06,
+    "Adj closeGME": 12.06,
+    "Volume": 9774800
+  },
+  {
+    "dateGME": "2020-11-17",
+    "Open": 11.65,
+    "High": 11.92,
+    "Low": 11.23,
+    "closeGME": 11.63,
+    "Adj closeGME": 11.63,
+    "Volume": 6678200
+  },
+  {
+    "dateGME": "2020-11-18",
+    "Open": 11.8,
+    "High": 12.04,
+    "Low": 11.56,
+    "closeGME": 11.57,
+    "Adj closeGME": 11.57,
+    "Volume": 3169200
+  },
+  {
+    "dateGME": "2020-11-19",
+    "Open": 11.6,
+    "High": 12.79,
+    "Low": 11.45,
+    "closeGME": 12.46,
+    "Adj closeGME": 12.46,
+    "Volume": 11787600
+  },
+  {
+    "dateGME": "2020-11-20",
+    "Open": 12.55,
+    "High": 13.46,
+    "Low": 12.54,
+    "closeGME": 12.71,
+    "Adj closeGME": 12.71,
+    "Volume": 8395400
+  },
+  {
+    "dateGME": "2020-11-23",
+    "Open": 12.9,
+    "High": 14.12,
+    "Low": 12.67,
+    "closeGME": 13.9,
+    "Adj closeGME": 13.9,
+    "Volume": 9599100
+  },
+  {
+    "dateGME": "2020-11-24",
+    "Open": 14.23,
+    "High": 14.26,
+    "Low": 13.3,
+    "closeGME": 13.67,
+    "Adj closeGME": 13.67,
+    "Volume": 7183200
+  },
+  {
+    "dateGME": "2020-11-25",
+    "Open": 13.6,
+    "High": 15.25,
+    "Low": 13.42,
+    "closeGME": 14.75,
+    "Adj closeGME": 14.75,
+    "Volume": 8860100
+  },
+  {
+    "dateGME": "2020-11-27",
+    "Open": 15.29,
+    "High": 16.74,
+    "Low": 14.88,
+    "closeGME": 16.08,
+    "Adj closeGME": 16.08,
+    "Volume": 12504200
+  },
+  {
+    "dateGME": "2020-11-30",
+    "Open": 18.17,
+    "High": 19.42,
+    "Low": 16.559999,
+    "closeGME": 16.559999,
+    "Adj closeGME": 16.559999,
+    "Volume": 31983500
+  },
+  {
+    "dateGME": "2020-12-01",
+    "Open": 17.110001,
+    "High": 17.4,
+    "Low": 15.76,
+    "closeGME": 15.8,
+    "Adj closeGME": 15.8,
+    "Volume": 12653900
+  },
+  {
+    "dateGME": "2020-12-02",
+    "Open": 15.7,
+    "High": 16.68,
+    "Low": 15.38,
+    "closeGME": 16.58,
+    "Adj closeGME": 16.58,
+    "Volume": 7883400
+  },
+  {
+    "dateGME": "2020-12-03",
+    "Open": 16.48,
+    "High": 16.639999,
+    "Low": 15.87,
+    "closeGME": 16.120001,
+    "Adj closeGME": 16.120001,
+    "Volume": 6295000
+  },
+  {
+    "dateGME": "2020-12-04",
+    "Open": 16.299999,
+    "High": 17.290001,
+    "Low": 16.26,
+    "closeGME": 16.9,
+    "Adj closeGME": 16.9,
+    "Volume": 8972700
+  },
+  {
+    "dateGME": "2020-12-07",
+    "Open": 17,
+    "High": 17.5,
+    "Low": 16.219999,
+    "closeGME": 16.35,
+    "Adj closeGME": 16.35,
+    "Volume": 7386300
+  },
+  {
+    "dateGME": "2020-12-08",
+    "Open": 16.370001,
+    "High": 17.209999,
+    "Low": 15.93,
+    "closeGME": 16.940001,
+    "Adj closeGME": 16.940001,
+    "Volume": 16120200
+  },
+  {
+    "dateGME": "2020-12-09",
+    "Open": 13.92,
+    "High": 14.73,
+    "Low": 13.23,
+    "closeGME": 13.66,
+    "Adj closeGME": 13.66,
+    "Volume": 24357900
+  },
+  {
+    "dateGME": "2020-12-10",
+    "Open": 13.12,
+    "High": 14.41,
+    "Low": 13.05,
+    "closeGME": 14.12,
+    "Adj closeGME": 14.12,
+    "Volume": 7558900
+  },
+  {
+    "dateGME": "2020-12-11",
+    "Open": 13.91,
+    "High": 14,
+    "Low": 13.02,
+    "closeGME": 13.31,
+    "Adj closeGME": 13.31,
+    "Volume": 7496900
+  },
+  {
+    "dateGME": "2020-12-14",
+    "Open": 13.34,
+    "High": 13.43,
+    "Low": 12.14,
+    "closeGME": 12.72,
+    "Adj closeGME": 12.72,
+    "Volume": 10007100
+  },
+  {
+    "dateGME": "2020-12-15",
+    "Open": 12.78,
+    "High": 14.02,
+    "Low": 12.48,
+    "closeGME": 13.85,
+    "Adj closeGME": 13.85,
+    "Volume": 8189800
+  },
+  {
+    "dateGME": "2020-12-16",
+    "Open": 13.96,
+    "High": 14.31,
+    "Low": 13.58,
+    "closeGME": 13.85,
+    "Adj closeGME": 13.85,
+    "Volume": 5865100
+  },
+  {
+    "dateGME": "2020-12-17",
+    "Open": 13.96,
+    "High": 14.98,
+    "Low": 13.59,
+    "closeGME": 14.83,
+    "Adj closeGME": 14.83,
+    "Volume": 8194900
+  },
+  {
+    "dateGME": "2020-12-18",
+    "Open": 15.78,
+    "High": 16.299999,
+    "Low": 15.18,
+    "closeGME": 15.63,
+    "Adj closeGME": 15.63,
+    "Volume": 16618800
+  },
+  {
+    "dateGME": "2020-12-21",
+    "Open": 15.81,
+    "High": 16.35,
+    "Low": 15.28,
+    "closeGME": 15.53,
+    "Adj closeGME": 15.53,
+    "Volume": 9876100
+  },
+  {
+    "dateGME": "2020-12-22",
+    "Open": 16.219999,
+    "High": 20.040001,
+    "Low": 16.15,
+    "closeGME": 19.459999,
+    "Adj closeGME": 19.459999,
+    "Volume": 30652700
+  },
+  {
+    "dateGME": "2020-12-23",
+    "Open": 20.17,
+    "High": 22.35,
+    "Low": 19.129999,
+    "closeGME": 20.57,
+    "Adj closeGME": 20.57,
+    "Volume": 25830300
+  },
+  {
+    "dateGME": "2020-12-24",
+    "Open": 21.01,
+    "High": 21.48,
+    "Low": 19.950001,
+    "closeGME": 20.15,
+    "Adj closeGME": 20.15,
+    "Volume": 6262200
+  },
+  {
+    "dateGME": "2020-12-28",
+    "Open": 21.309999,
+    "High": 21.969999,
+    "Low": 20.35,
+    "closeGME": 20.99,
+    "Adj closeGME": 20.99,
+    "Volume": 8965900
+  },
+  {
+    "dateGME": "2020-12-29",
+    "Open": 20.82,
+    "High": 21.07,
+    "Low": 18.559999,
+    "closeGME": 19.379999,
+    "Adj closeGME": 19.379999,
+    "Volume": 9241400
+  },
+  {
+    "dateGME": "2020-12-30",
+    "Open": 19.379999,
+    "High": 20,
+    "Low": 18.85,
+    "closeGME": 19.26,
+    "Adj closeGME": 19.26,
+    "Volume": 5934400
+  },
+  {
+    "dateGME": "2020-12-31",
+    "Open": 19.25,
+    "High": 19.799999,
+    "Low": 18.799999,
+    "closeGME": 18.84,
+    "Adj closeGME": 18.84,
+    "Volume": 6922700
+  },
+  {
+    "dateGME": "2021-01-04",
+    "Open": 19,
+    "High": 19.1,
+    "Low": 17.15,
+    "closeGME": 17.25,
+    "Adj closeGME": 17.25,
+    "Volume": 10022500
+  },
+  {
+    "dateGME": "2021-01-05",
+    "Open": 17.35,
+    "High": 18.08,
+    "Low": 17.23,
+    "closeGME": 17.370001,
+    "Adj closeGME": 17.370001,
+    "Volume": 4961500
+  },
+  {
+    "dateGME": "2021-01-06",
+    "Open": 17.34,
+    "High": 18.98,
+    "Low": 17.33,
+    "closeGME": 18.360001,
+    "Adj closeGME": 18.360001,
+    "Volume": 6056200
+  },
+  {
+    "dateGME": "2021-01-07",
+    "Open": 18.469999,
+    "High": 19.450001,
+    "Low": 18.02,
+    "closeGME": 18.08,
+    "Adj closeGME": 18.08,
+    "Volume": 6129300
+  },
+  {
+    "dateGME": "2021-01-08",
+    "Open": 18.18,
+    "High": 18.299999,
+    "Low": 17.08,
+    "closeGME": 17.690001,
+    "Adj closeGME": 17.690001,
+    "Volume": 6482000
+  },
+  {
+    "dateGME": "2021-01-11",
+    "Open": 19.41,
+    "High": 20.65,
+    "Low": 19.01,
+    "closeGME": 19.940001,
+    "Adj closeGME": 19.940001,
+    "Volume": 14908000
+  },
+  {
+    "dateGME": "2021-01-12",
+    "Open": 19.959999,
+    "High": 20.4,
+    "Low": 19.32,
+    "closeGME": 19.950001,
+    "Adj closeGME": 19.950001,
+    "Volume": 7060700
+  },
+  {
+    "dateGME": "2021-01-13",
+    "Open": 20.42,
+    "High": 38.650002,
+    "Low": 20.030001,
+    "closeGME": 31.4,
+    "Adj closeGME": 31.4,
+    "Volume": 144501700
+  },
+  {
+    "dateGME": "2021-01-14",
+    "Open": 38.09,
+    "High": 43.060001,
+    "Low": 33.049999,
+    "closeGME": 39.91,
+    "Adj closeGME": 39.91,
+    "Volume": 93717400
+  },
+  {
+    "dateGME": "2021-01-15",
+    "Open": 38.490002,
+    "High": 40.75,
+    "Low": 34.009998,
+    "closeGME": 35.5,
+    "Adj closeGME": 35.5,
+    "Volume": 46866400
+  },
+  {
+    "dateGME": "2021-01-19",
+    "Open": 41.549999,
+    "High": 45.52,
+    "Low": 36.639999,
+    "closeGME": 39.360001,
+    "Adj closeGME": 39.360001,
+    "Volume": 74721900
+  },
+  {
+    "dateGME": "2021-01-20",
+    "Open": 37.369999,
+    "High": 41.189999,
+    "Low": 36.060001,
+    "closeGME": 39.119999,
+    "Adj closeGME": 39.119999,
+    "Volume": 33471800
+  },
+  {
+    "dateGME": "2021-01-21",
+    "Open": 39.23,
+    "High": 44.75,
+    "Low": 37,
+    "closeGME": 43.029999,
+    "Adj closeGME": 43.029999,
+    "Volume": 56216900
+  },
+  {
+    "dateGME": "2021-01-22",
+    "Open": 42.59,
+    "High": 76.760002,
+    "Low": 42.32,
+    "closeGME": 65.010002,
+    "Adj closeGME": 65.010002,
+    "Volume": 197157900
+  },
+  {
+    "dateGME": "2021-01-25",
+    "Open": 96.730003,
+    "High": 159.179993,
+    "Low": 61.130001,
+    "closeGME": 76.790001,
+    "Adj closeGME": 76.790001,
+    "Volume": 177874000
+  },
+  {
+    "dateGME": "2021-01-26",
+    "Open": 88.559998,
+    "High": 150,
+    "Low": 80.199997,
+    "closeGME": 147.979996,
+    "Adj closeGME": 147.979996,
+    "Volume": 178588000
+  },
+  {
+    "dateGME": "2021-01-27",
+    "Open": 354.829987,
+    "High": 380,
+    "Low": 249,
+    "closeGME": 347.51001,
+    "Adj closeGME": 347.51001,
+    "Volume": 93396700
+  },
+  {
+    "dateGME": "2021-01-28",
+    "Open": 265,
+    "High": 483,
+    "Low": 112.25,
+    "closeGME": 193.600006,
+    "Adj closeGME": 193.600006,
+    "Volume": 58815800
+  },
+  {
+    "dateGME": "2021-01-29",
+    "Open": 379.709991,
+    "High": 413.980011,
+    "Low": 250,
+    "closeGME": 325,
+    "Adj closeGME": 325,
+    "Volume": 50566100
+  },
+  {
+    "dateGME": "2021-02-01",
+    "Open": 316.559998,
+    "High": 322,
+    "Low": 212,
+    "closeGME": 225,
+    "Adj closeGME": 225,
+    "Volume": 37382200
+  },
+  {
+    "dateGME": "2021-02-02",
+    "Open": 140.759995,
+    "High": 158,
+    "Low": 74.220001,
+    "closeGME": 90,
+    "Adj closeGME": 90,
+    "Volume": 78183100
+  },
+  {
+    "dateGME": "2021-02-03",
+    "Open": 112.010002,
+    "High": 113.400002,
+    "Low": 85.25,
+    "closeGME": 92.410004,
+    "Adj closeGME": 92.410004,
+    "Volume": 42698500
+  },
+  {
+    "dateGME": "2021-02-04",
+    "Open": 91.190002,
+    "High": 91.5,
+    "Low": 53.330002,
+    "closeGME": 53.5,
+    "Adj closeGME": 53.5,
+    "Volume": 62427300
+  },
+  {
+    "dateGME": "2021-02-05",
+    "Open": 54.040001,
+    "High": 95,
+    "Low": 51.09,
+    "closeGME": 63.77,
+    "Adj closeGME": 63.77,
+    "Volume": 81345000
+  },
+  {
+    "dateGME": "2021-02-08",
+    "Open": 72.410004,
+    "High": 72.660004,
+    "Low": 58.02,
+    "closeGME": 60,
+    "Adj closeGME": 60,
+    "Volume": 25687300
+  },
+  {
+    "dateGME": "2021-02-09",
+    "Open": 56.610001,
+    "High": 57,
+    "Low": 46.52,
+    "closeGME": 50.310001,
+    "Adj closeGME": 50.310001,
+    "Volume": 26843100
+  },
+  {
+    "dateGME": "2021-02-10",
+    "Open": 50.77,
+    "High": 62.830002,
+    "Low": 46.549999,
+    "closeGME": 51.200001,
+    "Adj closeGME": 51.200001,
+    "Volume": 36455000
+  },
+  {
+    "dateGME": "2021-02-11",
+    "Open": 50.009998,
+    "High": 55.32,
+    "Low": 48.220001,
+    "closeGME": 51.099998,
+    "Adj closeGME": 51.099998,
+    "Volume": 13056700
+  },
+  {
+    "dateGME": "2021-02-12",
+    "Open": 50.75,
+    "High": 55.240002,
+    "Low": 48.049999,
+    "closeGME": 52.400002,
+    "Adj closeGME": 52.400002,
+    "Volume": 14573300
+  },
+  {
+    "dateGME": "2021-02-16",
+    "Open": 52.66,
+    "High": 53.5,
+    "Low": 49.040001,
+    "closeGME": 49.509998,
+    "Adj closeGME": 49.509998,
+    "Volume": 8175000
+  },
+  {
+    "dateGME": "2021-02-17",
+    "Open": 49.77,
+    "High": 51.189999,
+    "Low": 44.560001,
+    "closeGME": 45.939999,
+    "Adj closeGME": 45.939999,
+    "Volume": 9186800
+  },
+  {
+    "dateGME": "2021-02-18",
+    "Open": 48.490002,
+    "High": 48.869999,
+    "Low": 40.650002,
+    "closeGME": 40.689999,
+    "Adj closeGME": 40.689999,
+    "Volume": 23990600
+  },
+  {
+    "dateGME": "2021-02-19",
+    "Open": 41.279999,
+    "High": 43.889999,
+    "Low": 38.5,
+    "closeGME": 40.59,
+    "Adj closeGME": 40.59,
+    "Volume": 14828200
+  },
+  {
+    "dateGME": "2021-02-22",
+    "Open": 46.689999,
+    "High": 48.509998,
+    "Low": 42.400002,
+    "closeGME": 46,
+    "Adj closeGME": 46,
+    "Volume": 19476000
+  },
+  {
+    "dateGME": "2021-02-23",
+    "Open": 44.970001,
+    "High": 46.23,
+    "Low": 40,
+    "closeGME": 44.970001,
+    "Adj closeGME": 44.970001,
+    "Volume": 7565200
+  },
+  {
+    "dateGME": "2021-02-24",
+    "Open": 44.700001,
+    "High": 91.709999,
+    "Low": 44.700001,
+    "closeGME": 91.709999,
+    "Adj closeGME": 91.709999,
+    "Volume": 83111700
+  },
+  {
+    "dateGME": "2021-02-25",
+    "Open": 169.559998,
+    "High": 184.679993,
+    "Low": 101,
+    "closeGME": 108.730003,
+    "Adj closeGME": 108.730003,
+    "Volume": 150308800
+  },
+  {
+    "dateGME": "2021-02-26",
+    "Open": 117.459999,
+    "High": 142.899994,
+    "Low": 86,
+    "closeGME": 101.739998,
+    "Adj closeGME": 101.739998,
+    "Volume": 92194200
+  },
+  {
+    "dateGME": "2021-03-01",
+    "Open": 104.540001,
+    "High": 133.990005,
+    "Low": 99.970001,
+    "closeGME": 120.400002,
+    "Adj closeGME": 120.400002,
+    "Volume": 49794000
+  },
+  {
+    "dateGME": "2021-03-02",
+    "Open": 116.93,
+    "High": 133.199997,
+    "Low": 112.199997,
+    "closeGME": 118.18,
+    "Adj closeGME": 118.18,
+    "Volume": 33783000
+  },
+  {
+    "dateGME": "2021-03-03",
+    "Open": 122.510002,
+    "High": 127.75,
+    "Low": 113.120003,
+    "closeGME": 124.18,
+    "Adj closeGME": 124.18,
+    "Volume": 19273900
+  },
+  {
+    "dateGME": "2021-03-04",
+    "Open": 125,
+    "High": 147.869995,
+    "Low": 115.300003,
+    "closeGME": 132.350006,
+    "Adj closeGME": 132.350006,
+    "Volume": 32606900
+  },
+  {
+    "dateGME": "2021-03-05",
+    "Open": 128.169998,
+    "High": 151.529999,
+    "Low": 127.5,
+    "closeGME": 137.740005,
+    "Adj closeGME": 137.740005,
+    "Volume": 30733700
+  },
+  {
+    "dateGME": "2021-03-08",
+    "Open": 154.889999,
+    "High": 210.869995,
+    "Low": 146.100006,
+    "closeGME": 194.5,
+    "Adj closeGME": 194.5,
+    "Volume": 63565600
+  },
+  {
+    "dateGME": "2021-03-09",
+    "Open": 217.710007,
+    "High": 249.850006,
+    "Low": 208.509995,
+    "closeGME": 246.899994,
+    "Adj closeGME": 246.899994,
+    "Volume": 39099300
+  },
+  {
+    "dateGME": "2021-03-10",
+    "Open": 269.429993,
+    "High": 348.5,
+    "Low": 172,
+    "closeGME": 265,
+    "Adj closeGME": 265,
+    "Volume": 71570600
+  },
+  {
+    "dateGME": "2021-03-11",
+    "Open": 241.639999,
+    "High": 281.5,
+    "Low": 232.600006,
+    "closeGME": 260,
+    "Adj closeGME": 260,
+    "Volume": 28312500
+  },
+  {
+    "dateGME": "2021-03-12",
+    "Open": 275,
+    "High": 295.5,
+    "Low": 262.269989,
+    "closeGME": 264.5,
+    "Adj closeGME": 264.5,
+    "Volume": 25845900
+  },
+  {
+    "dateGME": "2021-03-15",
+    "Open": 277.519989,
+    "High": 283,
+    "Low": 206,
+    "closeGME": 220.139999,
+    "Adj closeGME": 220.139999,
+    "Volume": 24100400
+  },
+  {
+    "dateGME": "2021-03-16",
+    "Open": 203.160004,
+    "High": 220.699997,
+    "Low": 172.350006,
+    "closeGME": 208.169998,
+    "Adj closeGME": 208.169998,
+    "Volume": 35422900
+  },
+  {
+    "dateGME": "2021-03-17",
+    "Open": 217.839996,
+    "High": 231.470001,
+    "Low": 204,
+    "closeGME": 209.809998,
+    "Adj closeGME": 209.809998,
+    "Volume": 16481600
+  },
+  {
+    "dateGME": "2021-03-18",
+    "Open": 214,
+    "High": 218.880005,
+    "Low": 195.649994,
+    "closeGME": 201.75,
+    "Adj closeGME": 201.75,
+    "Volume": 11764900
+  },
+  {
+    "dateGME": "2021-03-19",
+    "Open": 195.729996,
+    "High": 227,
+    "Low": 182.660004,
+    "closeGME": 200.270004,
+    "Adj closeGME": 200.270004,
+    "Volume": 24677300
+  },
+  {
+    "dateGME": "2021-03-22",
+    "Open": 205.259995,
+    "High": 210.360001,
+    "Low": 186.199997,
+    "closeGME": 194.490005,
+    "Adj closeGME": 194.490005,
+    "Volume": 10061500
+  },
+  {
+    "dateGME": "2021-03-23",
+    "Open": 197.5,
+    "High": 201.75,
+    "Low": 177.550003,
+    "closeGME": 181.75,
+    "Adj closeGME": 181.75,
+    "Volume": 14429100
+  },
+  {
+    "dateGME": "2021-03-24",
+    "Open": 157.979996,
+    "High": 166.970001,
+    "Low": 118.620003,
+    "closeGME": 120.339996,
+    "Adj closeGME": 120.339996,
+    "Volume": 24177900
+  },
+  {
+    "dateGME": "2021-03-25",
+    "Open": 123.489998,
+    "High": 187.5,
+    "Low": 116.900002,
+    "closeGME": 183.75,
+    "Adj closeGME": 183.75,
+    "Volume": 50962300
+  },
+  {
+    "dateGME": "2021-03-26",
+    "Open": 197.679993,
+    "High": 218.929993,
+    "Low": 163.259995,
+    "closeGME": 181,
+    "Adj closeGME": 181,
+    "Volume": 37430700
+  },
+  {
+    "dateGME": "2021-03-29",
+    "Open": 180.75,
+    "High": 193.919998,
+    "Low": 173.509995,
+    "closeGME": 181.300003,
+    "Adj closeGME": 181.300003,
+    "Volume": 10042200
+  },
+  {
+    "dateGME": "2021-03-30",
+    "Open": 187.5,
+    "High": 204.300003,
+    "Low": 182,
+    "closeGME": 194.460007,
+    "Adj closeGME": 194.460007,
+    "Volume": 17094900
+  },
+  {
+    "dateGME": "2021-03-31",
+    "Open": 197.5,
+    "High": 199.460007,
+    "Low": 187.110001,
+    "closeGME": 189.820007,
+    "Adj closeGME": 189.820007,
+    "Volume": 8393800
+  },
+  {
+    "dateGME": "2021-04-01",
+    "Open": 193.360001,
+    "High": 196.970001,
+    "Low": 183.600006,
+    "closeGME": 191.449997,
+    "Adj closeGME": 191.449997,
+    "Volume": 9334300
+  },
+  {
+    "dateGME": "2021-04-05",
+    "Open": 171,
+    "High": 195,
+    "Low": 164.809998,
+    "closeGME": 186.949997,
+    "Adj closeGME": 186.949997,
+    "Volume": 14070500
+  },
+  {
+    "dateGME": "2021-04-06",
+    "Open": 185.210007,
+    "High": 192,
+    "Low": 183.559998,
+    "closeGME": 184.5,
+    "Adj closeGME": 184.5,
+    "Volume": 6218300
+  },
+  {
+    "dateGME": "2021-04-07",
+    "Open": 183.220001,
+    "High": 184.5,
+    "Low": 176.110001,
+    "closeGME": 177.970001,
+    "Adj closeGME": 177.970001,
+    "Volume": 4768300
+  },
+  {
+    "dateGME": "2021-04-08",
+    "Open": 185.880005,
+    "High": 185.880005,
+    "Low": 164.300003,
+    "closeGME": 170.259995,
+    "Adj closeGME": 170.259995,
+    "Volume": 10047400
+  },
+  {
+    "dateGME": "2021-04-09",
+    "Open": 169.699997,
+    "High": 171.580002,
+    "Low": 153,
+    "closeGME": 158.360001,
+    "Adj closeGME": 158.360001,
+    "Volume": 9462400
+  },
+  {
+    "dateGME": "2021-04-12",
+    "Open": 158.110001,
+    "High": 163.899994,
+    "Low": 135.009995,
+    "closeGME": 141.089996,
+    "Adj closeGME": 141.089996,
+    "Volume": 16683600
+  },
+  {
+    "dateGME": "2021-04-13",
+    "Open": 141.880005,
+    "High": 145.380005,
+    "Low": 132,
+    "closeGME": 140.990005,
+    "Adj closeGME": 140.990005,
+    "Volume": 6806900
+  },
+  {
+    "dateGME": "2021-04-14",
+    "Open": 143.570007,
+    "High": 174.089996,
+    "Low": 143,
+    "closeGME": 166.529999,
+    "Adj closeGME": 166.529999,
+    "Volume": 21138100
+  },
+  {
+    "dateGME": "2021-04-15",
+    "Open": 163,
+    "High": 166.25,
+    "Low": 152.800003,
+    "closeGME": 156.440002,
+    "Adj closeGME": 156.440002,
+    "Volume": 7856800
+  },
+  {
+    "dateGME": "2021-04-16",
+    "Open": 156,
+    "High": 160.199997,
+    "Low": 151.25,
+    "closeGME": 154.690002,
+    "Adj closeGME": 154.690002,
+    "Volume": 5214700
+  },
+  {
+    "dateGME": "2021-04-19",
+    "Open": 171.800003,
+    "High": 175.199997,
+    "Low": 162.330002,
+    "closeGME": 164.369995,
+    "Adj closeGME": 164.369995,
+    "Volume": 10520200
+  },
+  {
+    "dateGME": "2021-04-20",
+    "Open": 164.139999,
+    "High": 164.889999,
+    "Low": 153.360001,
+    "closeGME": 158.529999,
+    "Adj closeGME": 158.529999,
+    "Volume": 4658600
+  },
+  {
+    "dateGME": "2021-04-21",
+    "Open": 158.399994,
+    "High": 162.979996,
+    "Low": 155.919998,
+    "closeGME": 158.509995,
+    "Adj closeGME": 158.509995,
+    "Volume": 3812800
+  },
+  {
+    "dateGME": "2021-04-22",
+    "Open": 159.100006,
+    "High": 159.100006,
+    "Low": 146.860001,
+    "closeGME": 151.169998,
+    "Adj closeGME": 151.169998,
+    "Volume": 4345800
+  },
+  {
+    "dateGME": "2021-04-23",
+    "Open": 149,
+    "High": 153.660004,
+    "Low": 144.699997,
+    "closeGME": 151.179993,
+    "Adj closeGME": 151.179993,
+    "Volume": 4029100
+  },
+  {
+    "dateGME": "2021-04-26",
+    "Open": 150.979996,
+    "High": 174.679993,
+    "Low": 148.759995,
+    "closeGME": 168.929993,
+    "Adj closeGME": 168.929993,
+    "Volume": 10532100
+  },
+  {
+    "dateGME": "2021-04-27",
+    "Open": 183.550003,
+    "High": 188,
+    "Low": 173.169998,
+    "closeGME": 177.770004,
+    "Adj closeGME": 177.770004,
+    "Volume": 8932700
+  },
+  {
+    "dateGME": "2021-04-28",
+    "Open": 172.100006,
+    "High": 181.979996,
+    "Low": 166.029999,
+    "closeGME": 178.580002,
+    "Adj closeGME": 178.580002,
+    "Volume": 5788900
+  },
+  {
+    "dateGME": "2021-04-29",
+    "Open": 176.559998,
+    "High": 180.860001,
+    "Low": 170.75,
+    "closeGME": 176.190002,
+    "Adj closeGME": 176.190002,
+    "Volume": 3760300
+  },
+  {
+    "dateGME": "2021-04-30",
+    "Open": 175,
+    "High": 183.800003,
+    "Low": 172.699997,
+    "closeGME": 173.589996,
+    "Adj closeGME": 173.589996,
+    "Volume": 4433600
+  },
+  {
+    "dateGME": "2021-05-03",
+    "Open": 177.490005,
+    "High": 177.490005,
+    "Low": 159.610001,
+    "closeGME": 162.199997,
+    "Adj closeGME": 162.199997,
+    "Volume": 5261000
+  },
+  {
+    "dateGME": "2021-05-04",
+    "Open": 159,
+    "High": 161.490005,
+    "Low": 151.800003,
+    "closeGME": 160.729996,
+    "Adj closeGME": 160.729996,
+    "Volume": 4007500
+  },
+  {
+    "dateGME": "2021-05-05",
+    "Open": 161.830002,
+    "High": 165.5,
+    "Low": 158.330002,
+    "closeGME": 159.479996,
+    "Adj closeGME": 159.479996,
+    "Volume": 2805400
+  },
+  {
+    "dateGME": "2021-05-06",
+    "Open": 160.860001,
+    "High": 164.720001,
+    "Low": 155.600006,
+    "closeGME": 161.009995,
+    "Adj closeGME": 161.009995,
+    "Volume": 2942800
+  },
+  {
+    "dateGME": "2021-05-07",
+    "Open": 160.110001,
+    "High": 167.410004,
+    "Low": 157.5,
+    "closeGME": 161.110001,
+    "Adj closeGME": 161.110001,
+    "Volume": 2934600
+  },
+  {
+    "dateGME": "2021-05-10",
+    "Open": 161.309998,
+    "High": 161.589996,
+    "Low": 143,
+    "closeGME": 143.220001,
+    "Adj closeGME": 143.220001,
+    "Volume": 4806700
+  },
+  {
+    "dateGME": "2021-05-11",
+    "Open": 137,
+    "High": 150.5,
+    "Low": 136.5,
+    "closeGME": 146.919998,
+    "Adj closeGME": 146.919998,
+    "Volume": 4684600
+  },
+  {
+    "dateGME": "2021-05-12",
+    "Open": 145.699997,
+    "High": 150.5,
+    "Low": 142.229996,
+    "closeGME": 144.789993,
+    "Adj closeGME": 144.789993,
+    "Volume": 2731500
+  },
+  {
+    "dateGME": "2021-05-13",
+    "Open": 147.440002,
+    "High": 169.949997,
+    "Low": 146.429993,
+    "closeGME": 164.5,
+    "Adj closeGME": 164.5,
+    "Volume": 8873500
+  },
+  {
+    "dateGME": "2021-05-14",
+    "Open": 160,
+    "High": 166.470001,
+    "Low": 156.220001,
+    "closeGME": 159.919998,
+    "Adj closeGME": 159.919998,
+    "Volume": 4293500
+  },
+  {
+    "dateGME": "2021-05-17",
+    "Open": 159.850006,
+    "High": 182.5,
+    "Low": 159,
+    "closeGME": 180.600006,
+    "Adj closeGME": 180.600006,
+    "Volume": 7462100
+  },
+  {
+    "dateGME": "2021-05-18",
+    "Open": 174.539993,
+    "High": 189.199997,
+    "Low": 168.270004,
+    "closeGME": 180.669998,
+    "Adj closeGME": 180.669998,
+    "Volume": 7738700
+  },
+  {
+    "dateGME": "2021-05-19",
+    "Open": 171.990005,
+    "High": 178.979996,
+    "Low": 164.149994,
+    "closeGME": 168.830002,
+    "Adj closeGME": 168.830002,
+    "Volume": 4825900
+  },
+  {
+    "dateGME": "2021-05-20",
+    "Open": 170.789993,
+    "High": 174.910004,
+    "Low": 166.899994,
+    "closeGME": 170.490005,
+    "Adj closeGME": 170.490005,
+    "Volume": 2478200
+  },
+  {
+    "dateGME": "2021-05-21",
+    "Open": 171,
+    "High": 179.240005,
+    "Low": 170.330002,
+    "closeGME": 176.789993,
+    "Adj closeGME": 176.789993,
+    "Volume": 3654700
+  },
+  {
+    "dateGME": "2021-05-24",
+    "Open": 175.850006,
+    "High": 188.460007,
+    "Low": 173.350006,
+    "closeGME": 180.009995,
+    "Adj closeGME": 180.009995,
+    "Volume": 4664300
+  },
+  {
+    "dateGME": "2021-05-25",
+    "Open": 181,
+    "High": 217.110001,
+    "Low": 181,
+    "closeGME": 209.429993,
+    "Adj closeGME": 209.429993,
+    "Volume": 14887500
+  },
+  {
+    "dateGME": "2021-05-26",
+    "Open": 229,
+    "High": 248.479996,
+    "Low": 225.550003,
+    "closeGME": 242.559998,
+    "Adj closeGME": 242.559998,
+    "Volume": 21119900
+  },
+  {
+    "dateGME": "2021-05-27",
+    "Open": 229.800003,
+    "High": 264,
+    "Low": 227,
+    "closeGME": 254.130005,
+    "Adj closeGME": 254.130005,
+    "Volume": 15526300
+  },
+  {
+    "dateGME": "2021-05-28",
+    "Open": 262.970001,
+    "High": 268.799988,
+    "Low": 221.429993,
+    "closeGME": 222,
+    "Adj closeGME": 222,
+    "Volume": 11751400
+  },
+  {
+    "dateGME": "2021-06-01",
+    "Open": 233.479996,
+    "High": 254.979996,
+    "Low": 227.070007,
+    "closeGME": 249.020004,
+    "Adj closeGME": 249.020004,
+    "Volume": 9625600
+  },
+  {
+    "dateGME": "2021-06-02",
+    "Open": 248.880005,
+    "High": 294,
+    "Low": 244.300003,
+    "closeGME": 282.23999,
+    "Adj closeGME": 282.23999,
+    "Volume": 16019200
+  },
+  {
+    "dateGME": "2021-06-03",
+    "Open": 265.709991,
+    "High": 274.429993,
+    "Low": 242.119995,
+    "closeGME": 258.179993,
+    "Adj closeGME": 258.179993,
+    "Volume": 8000000
+  },
+  {
+    "dateGME": "2021-06-04",
+    "Open": 256.019989,
+    "High": 265,
+    "Low": 245.770004,
+    "closeGME": 248.360001,
+    "Adj closeGME": 248.360001,
+    "Volume": 3637500
+  },
+  {
+    "dateGME": "2021-06-07",
+    "Open": 258,
+    "High": 282,
+    "Low": 255.199997,
+    "closeGME": 280.01001,
+    "Adj closeGME": 280.01001,
+    "Volume": 6051500
+  },
+  {
+    "dateGME": "2021-06-08",
+    "Open": 292,
+    "High": 344.660004,
+    "Low": 281,
+    "closeGME": 300,
+    "Adj closeGME": 300,
+    "Volume": 17439100
+  },
+  {
+    "dateGME": "2021-06-09",
+    "Open": 303.119995,
+    "High": 328,
+    "Low": 291.51001,
+    "closeGME": 302.559998,
+    "Adj closeGME": 302.559998,
+    "Volume": 13429300
+  },
+  {
+    "dateGME": "2021-06-10",
+    "Open": 282,
+    "High": 288,
+    "Low": 211,
+    "closeGME": 220.389999,
+    "Adj closeGME": 220.389999,
+    "Volume": 22980200
+  },
+  {
+    "dateGME": "2021-06-11",
+    "Open": 222.350006,
+    "High": 241.130005,
+    "Low": 206.130005,
+    "closeGME": 233.339996,
+    "Adj closeGME": 233.339996,
+    "Volume": 15580800
+  },
+  {
+    "dateGME": "2021-06-14",
+    "Open": 236.5,
+    "High": 238.009995,
+    "Low": 219.199997,
+    "closeGME": 229.440002,
+    "Adj closeGME": 229.440002,
+    "Volume": 7132600
+  },
+  {
+    "dateGME": "2021-06-15",
+    "Open": 226.360001,
+    "High": 229.25,
+    "Low": 208,
+    "closeGME": 222.5,
+    "Adj closeGME": 222.5,
+    "Volume": 7301900
+  },
+  {
+    "dateGME": "2021-06-16",
+    "Open": 215.240005,
+    "High": 228.729996,
+    "Low": 209,
+    "closeGME": 222.970001,
+    "Adj closeGME": 222.970001,
+    "Volume": 5564800
+  },
+  {
+    "dateGME": "2021-06-17",
+    "Open": 224,
+    "High": 233.660004,
+    "Low": 221.479996,
+    "closeGME": 223.589996,
+    "Adj closeGME": 223.589996,
+    "Volume": 4608600
+  },
+  {
+    "dateGME": "2021-06-18",
+    "Open": 220.179993,
+    "High": 223.490005,
+    "Low": 213,
+    "closeGME": 213.820007,
+    "Adj closeGME": 213.820007,
+    "Volume": 4307500
+  },
+  {
+    "dateGME": "2021-06-21",
+    "Open": 216.949997,
+    "High": 218.399994,
+    "Low": 197,
+    "closeGME": 200.369995,
+    "Adj closeGME": 200.369995,
+    "Volume": 5120200
+  },
+  {
+    "dateGME": "2021-06-22",
+    "Open": 217.729996,
+    "High": 225.880005,
+    "Low": 209.169998,
+    "closeGME": 220.399994,
+    "Adj closeGME": 220.399994,
+    "Volume": 8200200
+  },
+  {
+    "dateGME": "2021-06-23",
+    "Open": 221.449997,
+    "High": 222.570007,
+    "Low": 214.119995,
+    "closeGME": 219.339996,
+    "Adj closeGME": 219.339996,
+    "Volume": 3555100
+  },
+  {
+    "dateGME": "2021-06-24",
+    "Open": 221.160004,
+    "High": 227.449997,
+    "Low": 211.600006,
+    "closeGME": 212.309998,
+    "Adj closeGME": 212.309998,
+    "Volume": 3863300
+  },
+  {
+    "dateGME": "2021-06-25",
+    "Open": 214,
+    "High": 214.199997,
+    "Low": 198.5,
+    "closeGME": 209.509995,
+    "Adj closeGME": 209.509995,
+    "Volume": 12669300
+  },
+  {
+    "dateGME": "2021-06-28",
+    "Open": 211.25,
+    "High": 224.449997,
+    "Low": 210.199997,
+    "closeGME": 213.25,
+    "Adj closeGME": 213.25,
+    "Volume": 4879400
+  },
+  {
+    "dateGME": "2021-06-29",
+    "Open": 213.589996,
+    "High": 215.220001,
+    "Low": 208.009995,
+    "closeGME": 210.880005,
+    "Adj closeGME": 210.880005,
+    "Volume": 2475400
+  }
+]
