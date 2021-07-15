@@ -13,6 +13,18 @@ body{
   width: 1400px;
   position: relative;
 }
+
+#chartGME{
+  margin: 25px auto;
+  width: 1400px;
+  position: relative;
+}
+
+#chartTSLA{
+  margin: 25px auto;
+  width: 1400px;
+  position: relative;
+}
   
 #tooltip {
   border: 1px solid #ccc;
@@ -27,11 +39,3 @@ body{
   font-weight: bold;
 }
 
-#tooltipBTC {
-  border: 1px solid #ccc;
-  position: absolute;
-  padding: 10px;
-  background-color: #fff;
-  display: none;
-  pointer-events: none;
-}
