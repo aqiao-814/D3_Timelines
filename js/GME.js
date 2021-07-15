@@ -55,7 +55,7 @@ async function drawGME() {
         .datum(dataset)
         .attr('d', lineGenerator)
         .attr('fill', 'none')
-        .attr('stroke', '#FD0000')
+        .attr('stroke', 'black')
         .attr('stroke-width', 2)
 
     //Axis

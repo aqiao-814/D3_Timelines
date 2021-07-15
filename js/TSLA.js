@@ -55,7 +55,7 @@ async function drawTSLA() {
         .datum(dataset)
         .attr('d', lineGenerator)
         .attr('fill', 'none')
-        .attr('stroke', '#c2d0cf')
+        .attr('stroke', 'black')
         .attr('stroke-width', 2)
 
     //Axis

@@ -55,7 +55,7 @@ async function drawBTC() {
         .datum(dataset)
         .attr('d', lineGenerator)
         .attr('fill', 'none')
-        .attr('stroke', '#F7931A')
+        .attr('stroke', 'black')
         .attr('stroke-width', 2)
 
     //Axis
