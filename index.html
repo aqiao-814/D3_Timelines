@@ -9,6 +9,7 @@
   <!--d3-->
   <script src="https://d3js.org/d3.v7.js"></script>
   <!--js-->
+  <script src="combined.js"></script>
   <script src="js/BTC.js"></script>
   <script src="js/DOGE.js"></script>
   <script src="js/GME.js"></script>
@@ -18,21 +19,27 @@
 <body>
   <h1>Timelines</h1>
   <select id="metric">
-    <option value='doge' selected>DogeCoin</option>
-    <option value='btc'>BitCoin</option>
-    <option value='gme'>GameStop</option>
-    <option value='tsla'>Tesla</option>
+    <option value='closeBTC' selected>BitCoin</option>
+    <option value='close'>DogeCoin</option>
+    <option value='closeGME'>GameStop</option>
+    <option value='closeTSLA'>Tesla</option>
   </select>
-  <!--<h1>DogeCoin Timeline</h1>-->
-    <div id="chart">
-        <div id="tooltip">
+    <div id="ctest">
+        <div id="ttest">
             <div class="price"></div>
             <div class="date"></div>
         </div>
     </div>
-  <h1>BitCoin Timeline</h1>
+  <h1>btc</h1>
     <div id="chartBTC">
         <div id="tooltipBTC">
+            <div class="price"></div>
+            <div class="date"></div>
+        </div>
+    </div>
+  <h1>doge</h1>
+    <div id="chart">
+        <div id="tooltip">
             <div class="price"></div>
             <div class="date"></div>
         </div>

@@ -92,7 +92,7 @@ async function drawDOGE() {
                 .raise()
             
             tooltip.style('display', 'block')
-                .style('top', yScale(yAccessor(stock)) - 20 + 'px')
+                .style('top', yScale(yAccessor(stock)) + 570 + 'px')
                 .style('left', xScale(xAccessor(stock)) + "px")
 
             const rescale = yAccessor(stock) / 10000
@@ -110,6 +110,4 @@ async function drawDOGE() {
             tooltip.style('display', 'none')
         })
   }
-  
   drawDOGE()
-
