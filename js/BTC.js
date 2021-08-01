@@ -92,7 +92,7 @@ async function drawBTC() {
                 .raise()
             
             tooltip.style('display', 'block')
-                .style('top', yScale(yAccessor(stock)) - 700 + 'px')
+                .style('top', yScale(yAccessor(stock)) - 560 + 'px')
                 .style('left', xScale(xAccessor(stock)) + "px")
                 .style('z-index', 100)
 
@@ -112,5 +112,5 @@ async function drawBTC() {
         })
     }
   
-  drawBTC()
+  //drawBTC()
 

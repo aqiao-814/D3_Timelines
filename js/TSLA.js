@@ -92,7 +92,7 @@ async function drawTSLA() {
                 .raise()
             
             tooltip.style('display', 'block')
-                .style('top', yScale(yAccessor(stock)) + 1740 + 'px')
+                .style('top', yScale(yAccessor(stock)) - 30 + 'px')
                 .style('left', xScale(xAccessor(stock)) + "px")
                 .style('z-index', 100)
 
@@ -112,5 +112,5 @@ async function drawTSLA() {
         })
   }
   
-  drawTSLA()
+  //drawTSLA()
 
