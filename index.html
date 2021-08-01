@@ -18,46 +18,40 @@
 </head>
 <body>
   <h1>Timelines</h1>
-  <select id="metric">
-    <option value='closeBTC' selected>BitCoin</option>
-    <option value='close'>DogeCoin</option>
-    <option value='closeGME'>GameStop</option>
-    <option value='closeTSLA'>Tesla</option>
+  <select id="metric" onchange="toggle(this.value)">
+    <option value='select' selected>-Select-</option>
+    <option value='BTC'>BitCoin</option>
+    <option value='DOGE'>DogeCoin</option>
+    <option value='GME'>GameStop</option>
+    <option value='TSLA'>Tesla</option>
   </select>
-    <div id="ctest">
-        <div id="ttest">
-            <div class="price"></div>
-            <div class="date"></div>
-        </div>
+  <!--btc-->
+  <div id="chartBTC">
+    <div id="tooltipBTC">
+      <div class="price"></div>
+      <div class="date"></div>
     </div>
-  <h1>btc</h1>
-    <div id="chartBTC">
-        <div id="tooltipBTC">
-            <div class="price"></div>
-            <div class="date"></div>
-        </div>
+  </div>
+  <!--doge-->
+  <div id="chart">
+    <div id="tooltip">
+      <div class="price"></div>
+      <div class="date"></div>
     </div>
-  <h1>doge</h1>
-    <div id="chart">
-        <div id="tooltip">
-            <div class="price"></div>
-            <div class="date"></div>
-        </div>
+  </div>
+  <!--gme-->
+  <div id="chartGME">
+    <div id="tooltipGME">
+      <div class="price"></div>
+      <div class="date"></div>
     </div>
-  <h1>GameStop Timeline</h1>
-    <div id="chartGME">
-        <div id="tooltipGME">
-            <div class="price"></div>
-            <div class="date"></div>
-        </div>
+  </div>
+  <!--tsla-->
+  <div id="chartTSLA">
+    <div id="tooltipTSLA">
+      <div class="price"></div>
+      <div class="date"></div>
     </div>
-  <h1>Tesla Timeline</h1>
-    <div id="chartTSLA">
-        <div id="tooltipTSLA">
-            <div class="price"></div>
-            <div class="date"></div>
-        </div>
-    </div>
-
+  </div>
 </body>
 </html>
