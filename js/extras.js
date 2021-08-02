@@ -1,5 +1,7 @@
 function toggle(draw) {
-  if (draw === 'BTC'){
+  if (draw == 'select'){
+  }
+  else if (draw === 'BTC'){
     return drawBTC();
   }
   else if (draw === 'DOGE'){
