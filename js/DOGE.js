@@ -1,4 +1,6 @@
+
 async function drawDOGE() {
+
     // Data
     const dataset = await d3.json('json/doge.json')
   
@@ -109,5 +111,6 @@ async function drawDOGE() {
 
             tooltip.style('display', 'none')
         })
+
   }
   //drawDOGE()
